@@ -1,7 +1,8 @@
-# GitHub for Developers
+# GitHub for Developers using GitHub Desktop
 
 - Class Date: Oct 2, 2020
 - Facilitator: @beardofedu
+
 
 ## Talk to Us!!
 
